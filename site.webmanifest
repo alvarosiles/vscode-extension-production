@@ -1,0 +1,14 @@
+{
+  "name": "Extensiones Pro para VS Code",
+  "short_name": "Pro VS Code",
+  "description": "Temas, atajos, snippets, herramientas e IA para Visual Studio Code.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07070d",
+  "theme_color": "#07070d",
+  "lang": "es",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

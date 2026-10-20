@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+*.swp
+.idea/
+
+# Dependencies / builds
+node_modules/
+_site/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
